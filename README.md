@@ -1,6 +1,6 @@
 ## INTERNATIONAL DEBT STATISTICS FROM THE WORLD BANK
 
-In this project, I analyzed international debt data collected by The World Bank from 1970 to 2015. 
+In this project, I analyzed international debt data collected by The World Bank from 1970 to 2015 using SQL. 
 
 This dataset contains both national and regional debt (in USD) statistics for different countries across the globe.
 
