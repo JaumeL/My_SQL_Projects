@@ -4,7 +4,7 @@ In this project, I analyzed international debt data collected by The World Bank 
 
 This dataset contains both national and regional debt (in USD) statistics for different countries across the globe.
 
-In this project I found answers to questions like:
+In this project, I found answers to questions like:
 
 - What is the total amount of debt that is owed by the countries listed in the dataset?
 - Which country owns the maximum amount of debt and what does that amount look like?
