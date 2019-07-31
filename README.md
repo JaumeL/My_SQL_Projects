@@ -10,4 +10,12 @@ In this project I found answers to questions like:
 - Which country owns the maximum amount of debt and what does that amount look like?
 - What is the average amount of debt owed by countries across different debt indicators?
 
-Technically, I connected to the database from the Jupyter Notebook environment to do the analysis. I wrote different SQL queries using SELECT, FROM, WHERE, GROUP BY, ORDER BY and LIMIT clauses. I also performed subqueries as a filter on WHERE clauses. Finally, I used aggregate or summarized functions such as SUM, AVG, COUNT or MAX and MIN to get aggregate values and aliased columns for better understanding. 
+# Technically 
+
+I connected the database from the Jupyter Notebook's environment for the analysis. 
+
+I wrote different SQL queries using SELECT, FROM, WHERE, GROUP BY, ORDER BY and LIMIT clauses. 
+
+I also performed subqueries as a filter on WHERE clauses. 
+
+Finally, I used aggregate or summarized functions such as SUM, AVG, COUNT or MAX and MIN to get aggregate values and aliased columns for better understanding. 
