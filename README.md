@@ -18,4 +18,4 @@ I wrote different SQL queries using SELECT, FROM, WHERE, GROUP BY, ORDER BY and 
 
 I also performed subqueries as a filter on WHERE clauses. 
 
-Finally, I used aggregate or summarized functions such as SUM, AVG, COUNT or MAX and MIN to get aggregate values and aliased columns for better understanding. 
+Finally, I used aggregate or summarized functions such as SUM, AVG, COUNT or MAX and MIN to get aggregate numerical data and aliased columns for analysis' better understanding. 
